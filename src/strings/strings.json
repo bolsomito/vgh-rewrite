@@ -10,20 +10,18 @@
       "noDescription": "No description",
       "commandNotFound": "I couldn't find a command with that name"
     },
-    "ping": {
-      "_description": "Verifica se o bot está online",
-      "ping": ":ping_pong: Pong!",
-      "discordPing": "Discord API ping: `{0}ms`",
-      "wsPing": "Websocket ping: `{1}ms`"
-    },
     "stats": {
-      "_description": "Envia informações sobre o bot",
-      "statistics": "{0} - Estatísticas",
-      "uptime": "Tempo Online",
-      "ping": "Ping",
-      "commands": "Comandos",
-      "ram": "Memória",
-      "totalRam": "{0} MB usados de {1} MB alocados"
+      "_description": "Sends information about the bot",
+      "statistics": "{0} - Statistics",
+      "nodeMemoryUsage": "Node.js Memory Usage",
+      "totalUsableMemory": "Total Usable Memory",
+      "nodeJsVersion": "Node.js Version",
+      "discordJsVersion": "discord.js Version",
+      "systemUptime": "System Uptime",
+      "processUptime": "Process Uptime",
+      "servers": "Servers",
+      "channels": "Channels",
+      "users": "Users"
     }
   }
 }
